@@ -214,6 +214,9 @@ ramips_board_detect() {
 	*"GL-MT300N-V2")
 		name="gl-mt300n-v2"
 		;;
+	*"HC5611")
+		name="hc5611"
+		;;
 	*"HC5661")
 		name="hc5661"
 		;;
@@ -639,6 +642,9 @@ ramips_board_detect() {
 		;;
 	*"WT3020 (8M)")
 		name="wt3020-8M"
+		;;
+	*"WT3020 (16M)")
+		name="wt3020-16M"
 		;;
 	*"WZR-AGL300NH")
 		name="wzr-agl300nh"
